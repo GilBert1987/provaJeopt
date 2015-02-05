@@ -5,7 +5,7 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("prova3");
+		System.out.println("prova4");
 		
 		interficies.Quadrat q = new interficies.Quadrat();
 		interficies.Triangle t = new interficies.Triangle();
